@@ -1,0 +1,41 @@
+Tema hari ini : Code Igniter
+
+code igniter adalah sebuah framework yang memudahkan developer, kode pemrograman yang menggunakan pola (pattern) sehingga
+memudahkan untuk dinpindah tangankan.
+
+
+kelebihan
+1. MVC (pattern)
+	Model : tempat berkaitan yang dengan query (berkaitan dgn database)
+
+	View : tempat untuk menaruh layout (berkaitan dgn layout)
+
+	Controller : tempat yang menghubungkan Model dgn View (berkaitan dgn logika)
+	contoh : http://localhost/web24day3/index.php/Pribadi/method_satu
+						     /controller/nama_function
+
+2. Error Handling
+
+3. Validation
+
+4. fast, reliable, lightweight
+
+cara install :
+1. download CI di codeigniter.com/download
+2. buat folder di htdocs
+3. copy semua file yg ada di folder CI ke folder yg baru dibuat
+
+syarat coding untuk mempermudah :
+1. closing tag; penulisan library, controller, model dsb tidak diakhiri dgn "?>".
+2. description; tulis deskripsi untuk setiap file.
+3. penamaan class; penamaan class dimulai dgn huruf besar, jika nama class lbh dari satu gunakan underscore utk memisahkan.
+4. penamaan method (bagian dari class); penamaan method dimulai dgn huruf kecil, menggunakan underscore utk memisahkan, usahakan
+nama method deskriptif dan tidak terlalu panjang.
+
+folder yg di CI :
+1. application; folder dimana kita bekerja.
+2. system; untuk menambah fungsi2 agar mudah dipanggil.
+3. user guide; sebagai petunjuk bagi developer.
+
+file yg ada di CI :
+1. .htaccess berfungsi untuk menghilangkan "index.php"

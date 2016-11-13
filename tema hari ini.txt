@@ -1,0 +1,17 @@
+Tema hari ini : Code Igniter
+
+code igniter adalah sebuah framework yang memudahkan developer, kode pemrograman yang menggunakan pola (pattern) sehingga
+memudahkan untuk dinpindah tangankan.
+
+
+kelebihan
+1. MVC (pattern)
+	Model : tempat berkaitan yang dengan query (berkaitan dgn database)
+	View : tempat untuk menaruh layout (berkaitan dgn layout)
+	Controller : tempat yang menghubungkan Model dgn View (berkaitan dgn logika)
+
+2. Error Handling
+
+3. Validation
+
+4. fast, reliable, lightweight
