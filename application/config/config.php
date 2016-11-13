@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://localhost/web24day3';
+$config['base_url'] = 'http://localhost/web24ciblog';
 /* menentukan aplikasi nanti kita mau di url mana */
 /*
 |--------------------------------------------------------------------------
